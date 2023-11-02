@@ -205,3 +205,51 @@ body{
     background-color: yellow;
     height: 200px;
   }
+
+
+
+  /* Packages Start */
+.main-txt h1{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 700;
+  }
+  .main-txt h1 span{
+    color: orange;
+  }
+  .packages .card{
+    border-radius: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  }
+  .packages .card img{
+    border-radius: 5px;
+  }
+  .packages .card .card-body{
+    background: transparent;
+  }
+  .packages .card .card-body h3{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .packages .card .card-body p{
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  .star i{
+    font-size: 15px;
+  }
+  .checked{
+    color: orange;
+  }
+  .packages .card .card-body h6{
+    font-size: 20px;
+  }
+  .packages .card .card-body a{
+    padding: 10px;
+    text-decoration: none;
+    background: orange;
+    color: white;
+    border-radius: 5px;
+  }
+  /* Packages End */
