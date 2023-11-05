@@ -23,8 +23,6 @@ body{
 
 /* Header Start */
 #navbar{
-
-
     background: #f9f9f9;
   }
   #logo{
@@ -40,7 +38,9 @@ body{
   .navbar-toggler span{
     color: orange;
     outline: none;
+    /* background-color: blue; */
   }
+
   .navbar-nav{
     margin-left: 20px;
   }
@@ -202,7 +202,7 @@ body{
   }
   
   .main-text{
-    background-color: yellow;
+    /* background-color: yellow; */
     height: 200px;
   }
 
