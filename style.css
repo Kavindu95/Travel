@@ -298,11 +298,41 @@ body{
   transform: scale(1.1);
 }
 /* Gallary End */
-
-
-
-
-
-
-
    /* section Gallary end */
+
+
+
+   /* About Start */
+.about{
+  margin-top: 50px;
+  background: #f9f9f9;
+}
+.about .card{
+  border-radius: 10px;
+}
+.about .card img{
+  border-radius: 10px;
+}
+.about h2{
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.about p{
+  font-size: 500;
+}
+#about-btn{
+  width: 150px;
+  height: 38px;
+  border: none;
+  border-radius: 5px;
+  background: #ffa500;
+  color: white;
+  letter-spacing: 2px;
+  font-weight: 550;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+#about-btn:hover{
+  width: 170px;
+}
+/* About End */
