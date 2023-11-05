@@ -278,3 +278,31 @@ body{
 
 
   /* Section Service :end */
+
+
+  /* section Gallary start */
+/* Gallary Start */
+.gallary{
+  margin-top: 50px;
+}
+.gallary .card{
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  cursor: pointer;
+}
+.gallary .card img{
+  border-radius: 10px;
+  transition: 0.3s ease;
+}
+.gallary .card:hover img{
+  transform: scale(1.1);
+}
+/* Gallary End */
+
+
+
+
+
+
+
+   /* section Gallary end */
